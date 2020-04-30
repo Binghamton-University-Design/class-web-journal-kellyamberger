@@ -1,0 +1,283 @@
+{
+"key" :
+  { 
+    
+    "Social media makes me feel _____.": {
+      "x" : 0,
+      "y" : 0,
+      "happy, connected, informed, anxious, envious, nostalgic" : "9-2-01.png",
+      "happy, connected, informed, nostalgic" : "9-7-01.png",
+      "happy, sad, connected, informed, anxious, envious, nostalgic" : "9-1-01.png",
+      "happy, sad, connected, anxious, envious" : "9-4-01.png",
+      "happy, connected, informed" : "9-8-01.png",
+      "happy" : "9-13-01.png",
+      "anxious" : "9-14-01.png",
+      "happy, sad, connected, informed, anxious" : "9-3-01.png",
+      "happy, connected, informed, anxious, nostalgic" : "9-5-01.png",
+      "happy, connected" : "9-11-01.png",
+      "connected, informed" : "9-12-01.png",
+      "connected, informed, anxious" : "9-9-01.png",
+      "connected, informed, nostalgic" : "9-10-01.png",
+      "happy, connected, informed, envious, nostalgic" : "9-6-01.png",
+      "is_text" : false
+    },
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": {
+      "x" : 0,
+      "y" : 0,
+      "Twitter" : "1-twitter-01.png",
+      "Snapchat" : "1-1-01.png",
+      "TikTok" : "1-tiktok-01.png",
+      "Instagram" : "1-instagram-01.png",
+      "is_text" : false
+    },
+    "What is your favorite social media platform?": {
+      "x" : 0,
+      "y" : 0,
+      "Twitter" : "1-twitter-01.png",
+      "Snapchat" : "1-1-01.png",
+      "TikTok" : "1-tiktok-01.png",
+      "Instagram" : "1-instagram-01.png",
+      "is_text" : false
+    },
+    "About how many hours per day do you spend on social media?": {
+      "x" : 0,
+      "y" : 0,
+      "2 hours" : "5-2-01.png",
+      "3+ hours" : "5-3-01.png",
+      "3" : "3-3.png",
+      "4" : "3-4.png",
+      "5" : "3-5.png",
+      "is_text" : false
+    },
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
+      "x" : 0,
+      "y" : 0,
+      "1" : "3-1.png",
+      "2" : "3-2.png",
+      "3" : "3-3.png",
+      "4" : "3-4.png",
+      "5" : "3-5.png",
+      "is_text" : false
+    },
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
+      "x" : 0,
+      "y" : 0,
+      "1" : "3-1.png",
+      "2" : "3-2.png",
+      "3" : "3-3.png",
+      "4" : "3-4.png",
+      "5" : "3-5.png",
+      "is_text" : false
+    },
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
+      "x" : 0,
+      "y" : 0,
+      "1" : "3-1.png",
+      "2" : "3-2.png",
+      "3" : "3-3.png",
+      "4" : "3-4.png",
+      "5" : "3-5.png",
+      "is_text" : false
+    },
+    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
+      "x" : 0,
+      "y" : 0,
+      "1" : "3-1.png",
+      "2" : "3-2.png",
+      "3" : "3-3.png",
+      "4" : "3-4.png",
+      "5" : "3-5.png",
+      "is_text" : false
+    },
+    "I can't think unless I have breakfast.": {
+      "x" : 0,
+      "y" : 0,
+      "TRUE" : "4-true.png",
+      "FALSE" : "4-false.png",
+      "is_text" : false
+    },
+    "An ideal breakfast would include:": {
+      "x" : 0,
+      "y" : 0,
+      "is_text" : false
+    }
+  },
+"data" : [
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Strangers, Local businesses and organizations",
+    "I follow _____ on social media.": "My friends, My family, Strangers, Celebrities, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "2 hours",
+    "How often do you create posts on social media?": "A few times per year",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "no",
+    "Social media makes me feel _____.": "happy, connected, informed, anxious, envious, nostalgic"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Some are, some are not",
+    "_______ follow me on social media.": "My friends, My family, Local businesses and organizations",
+    "I follow _____ on social media.": "My friends, My family, Strangers, Celebrities, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "2 hours",
+    "How often do you create posts on social media?": "Daily",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 5,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, connected, informed, nostalgic"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Strangers, My school/work",
+    "I follow _____ on social media.": "My friends, My family, Strangers, Celebrities, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "3+ hours",
+    "How often do you create posts on social media?": "Weekly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 5,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, sad, connected, informed, anxious, envious, nostalgic"
+  },
+  {
+    "What is your favorite social media platform?": "Snapchat",
+    "Are your social media accounts set to Private?": "Some are, some are not",
+    "_______ follow me on social media.": "My friends, My family, Local businesses and organizations",
+    "I follow _____ on social media.": "My friends, My family, Strangers, Celebrities, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "3+ hours",
+    "How often do you create posts on social media?": "Weekly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, sad, connected, anxious, envious"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, My school/work",
+    "I follow _____ on social media.": "My friends, My family, Celebrities, My school/work",
+    "About how many hours per day do you spend on social media?": "2 hours",
+    "How often do you create posts on social media?": "Monthly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 5,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "no",
+    "Social media makes me feel _____.": "happy, connected, informed"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Some are, some are not",
+    "_______ follow me on social media.": "My friends, My family",
+    "I follow _____ on social media.": "My friends, My family, Celebrities, My school/work",
+    "About how many hours per day do you spend on social media?": "2 hours",
+    "How often do you create posts on social media?": "A few times per year",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy"
+  },
+  {
+    "What is your favorite social media platform?": "TikTok",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, My school/work",
+    "I follow _____ on social media.": "My friends, My family, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "2 hours",
+    "How often do you create posts on social media?": "Monthly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "anxious"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Strangers, My school/work",
+    "I follow _____ on social media.": "My friends, My family, Strangers, Celebrities, Local businesses and organizations",
+    "About how many hours per day do you spend on social media?": "2 hours",
+    "How often do you create posts on social media?": "Weekly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 3,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, sad, connected, informed, anxious"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Strangers, Local businesses and organizations",
+    "I follow _____ on social media.": "My friends, My family, Strangers, Celebrities, Local businesses and organizations",
+    "About how many hours per day do you spend on social media?": "3+ hours",
+    "How often do you create posts on social media?": "Monthly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 3,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, connected, informed, anxious, nostalgic"
+  },
+  {
+    "What is your favorite social media platform?": "Snapchat",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family",
+    "I follow _____ on social media.": "My friends, My family",
+    "About how many hours per day do you spend on social media?": "1 hour",
+    "How often do you create posts on social media?": "Monthly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 3,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, connected"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Some are, some are not",
+    "_______ follow me on social media.": "My friends, My family, My school/work",
+    "I follow _____ on social media.": "My friends, My family, Celebrities, My school/work",
+    "About how many hours per day do you spend on social media?": "1 hour",
+    "How often do you create posts on social media?": "A few times per year",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "connected, informed"
+  },
+  {
+    "What is your favorite social media platform?": "Twitter",
+    "Are your social media accounts set to Private?": "Some are, some are not",
+    "_______ follow me on social media.": "My friends, My family",
+    "I follow _____ on social media.": "My friends, Strangers, Celebrities, Local businesses and organizations",
+    "About how many hours per day do you spend on social media?": "3+ hours",
+    "How often do you create posts on social media?": "Monthly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 3,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "no",
+    "Social media makes me feel _____.": "connected, informed, anxious"
+  },
+  {
+    "What is your favorite social media platform?": "Instagram",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Local businesses and organizations",
+    "I follow _____ on social media.": "My friends, My family, Celebrities, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "3+ hours",
+    "How often do you create posts on social media?": "A few times per year",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 5,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "connected, informed, nostalgic"
+  },
+  {
+    "What is your favorite social media platform?": "Instagram",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Strangers, Local businesses and organizations, My school/work",
+    "I follow _____ on social media.": "My friends, My family, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "3+ hours",
+    "How often do you create posts on social media?": "Weekly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, connected, informed, envious, nostalgic"
+  },
+  {
+    "What is your favorite social media platform?": "Snapchat",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Local businesses and organizations, My school/work",
+    "I follow _____ on social media.": "My friends, My family, Celebrities, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "2 hours",
+    "How often do you create posts on social media?": "Monthly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, connected, informed, nostalgic"
+  },
+  {
+    "What is your favorite social media platform?": "Instagram",
+    "Are your social media accounts set to Private?": "Yes",
+    "_______ follow me on social media.": "My friends, My family, Local businesses and organizations",
+    "I follow _____ on social media.": "My friends, My family, Celebrities, Local businesses and organizations, My school/work",
+    "About how many hours per day do you spend on social media?": "3+ hours",
+    "How often do you create posts on social media?": "Weekly",
+    "On a scale of 1 to 5, how well do your social media posts reflect your actual lifestyle?": 4,
+    "I receive notifications (on my home/lock screen) when people interact with my posts.": "yes",
+    "Social media makes me feel _____.": "happy, connected, informed, envious, nostalgic"
+  }
+]
+}
