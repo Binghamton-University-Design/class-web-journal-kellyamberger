@@ -100,8 +100,8 @@
     "Are your social media accounts set to Private?": {
       "x" : 0,
       "y" : 0,
-      "Yes" : "4-true.png",
-      "Some are, some are not" : "4-false.png",
+      "Yes" : "2-yes-01.png",
+      "Some are, some are not" : "2-some-01.png",
       "is_text" : false
     }
 
@@ -235,7 +235,7 @@
     "How often do you create posts on social media?": "Monthly",
     "About how many hours per day do you spend on social media?": "3+ hours",
     "_______ follow me on social media.": "My friends, My family",
-    "I follow _____ on social media.": "My friends, Strangers, Celebrities, Local businesses and organizations",
+    "I follow _____ on social media.": "My friends, My family, Strangers, Celebrities, Local businesses and organizations",
     "I receive notifications (on my home/lock screen) when people interact with my posts.": "no",
     "Are your social media accounts set to Private?": "Some are, some are not"
   },
